@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42369
     wikipedia: http://hu.wikipedia.org/wiki/Br%C3%B3dy_S%C3%A1ndor
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43694#Nyomor
 gutenberg_issued: '2013-09-11'
 gutenberg_type: Text
 identifiers:
